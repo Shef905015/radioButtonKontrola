@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\bin\Debug\radioButtonKontrola1.exe.config
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\bin\Debug\radioButtonKontrola1.exe
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\bin\Debug\radioButtonKontrola1.pdb
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.Form1.resources
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.Properties.Resources.resources
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.exe
+C:\Users\ucenik\source\repos\radioButtonKontrola1\radioButtonKontrola1\obj\Debug\radioButtonKontrola1.pdb
